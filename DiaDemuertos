@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Altar del Día de Muertos</title>
+
+    <style>
+        body {
+            background-color: #fff1dc;
+            font-family: Arial;
+            text-align: center;
+            color: #5c2c06;
+        }
+
+        h1 {
+            color: #e65c00;
+        }
+
+        img {
+            width: 300px;
+        }
+
+        footer {
+            background-color: #f4a340;
+            padding: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Altar del Día de Muertos</h1>
+
+    <h2>El altar de muertos</h2>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59V1zIPptOw21wPZUt-BPfN5aCFddmvyzuBPZEPyGjg&s=10"
+         alt="Altar de Día de Muertos">
+
+    <h2>¿Qué es?</h2>
+
+    <p>
+        El altar de Día de Muertos es una tradición mexicana
+        para recordar a nuestros seres queridos que fallecieron.
+    </p>
+
+    <h2>Elementos del altar</h2>
+
+    <p>El Pan de Muerto: Se acostumbra colocar uno por cada difunto recordado en la fotografía, o bien, piezas en múltiplos de 4 (representando los cuatro puntos cardinales)</p>
+    <p>Las Velas y Veladoras: Tradicionalmente se pone una vela por cada fotografía o alma que se espera. Si se busca un peso simbólico mayor, se añaden 4 veladoras grandes en la base formando una cruz para orientar el camino</p>
+    <p>Calaveritas: representan la muerte.</p>
+    <p>El Agua y la Sal: Se sirven en porciones individuales. Basta con un vaso lleno de agua limpia y un plato pequeño con un puño de sal (aproximadamente 50 a 100 gramos) para cumplir con la purificación</p>
+    <p>Fotografías: recuerdan a nuestros familiares.</p>
+    <p>Agua: calma la sed de las almas.</p>
+
+    <h2>Una tradición mexicana</h2>
+
+    <p>
+        El Día de Muertos se celebra el 1 y 2 de noviembre.
+        Es una fecha para recordar a nuestros seres queridos.
+    </p>
+    <p>
+        Existe la firme creencia de que las almas tienen un orden de llegada específico según cómo hayan fallecido:
+
+27 de octubre: Llegan las mascotas que ya partieron de este mundo.
+
+28 de octubre: Se recibe a las personas que murieron de manera trágica, por accidentes o violencia.
+
+30 y 31 de octubre: Días dedicados a los niños que murieron sin ser bautizados (los limbos) o niños olvidados.
+
+ 1 de noviembre: Día de Todos los Santos, destinado a los niños y "angelitos".
+
+ 2 de noviembre: Día de los Fieles Difuntos, cuando llegan todos los adultos.
+
+    </p>
+
+<p>
+2. La prohibición de comer de la ofrenda antes de tiempo
+
+Una de las reglas más estrictas en las casas es que nadie puede tocar ni comer la comida del altar hasta que los difuntos hayan venido (después del 2 de noviembre). Se cree que si comes algo antes, el alma se quedará sin su banquete o se ofenderá. Cuando los vivos finalmente comen los alimentos de la ofrenda, se dice que estos ya no tienen sabor ni olor, porque los muertos ya absorbieron su "esencia" espiritual
+</p>
+
+    <footer>
+        <p>Medina Alatorre Guillermo Esteban- Día de Muertos - México</p>
+    </footer>
+
+</body>
+</html>
